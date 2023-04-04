@@ -19,11 +19,3 @@ pip install requests
 ```
 python connectiontest.py
 ```
-
-## Author
-
-This script was created by Filip Rokita. You can learn more about me and my work at www.filiprokita.com.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
