@@ -10,11 +10,15 @@ To use this script, simply download the `connectiontest.py` file and run it in y
 
 This script requires the requests library to be installed in your Python environment. If you do not already have requests installed, you can install it using pip:
 
-``pip install requests``
+`
+pip install requests
+`
 
 ## Usage
 
-``python connectiontest.py``
+`
+python connectiontest.py
+`
 
 ## Author
 
