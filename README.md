@@ -16,9 +16,9 @@ pip install requests
 
 ## Usage
 
-`
+```
 python connectiontest.py
-`
+```
 
 ## Author
 
